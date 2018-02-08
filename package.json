@@ -1,6 +1,6 @@
 {
   "name": "rlb-doxity",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Documentation Generator for Solidity Contracts",
   "main": "lib/index.js",
   "scripts": {
